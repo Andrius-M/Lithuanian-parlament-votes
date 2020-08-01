@@ -1,2 +1,3 @@
 # Lithuanian-parlament-votes
-This is some data science project on Lithuanian parlament votes data set
+In the file Votes_Project.ipynb you'll find some charts and usefull queries on this data set. 
+Data set was taken from Kaggle: https://www.kaggle.com/sirexo/lithuanian-paliament-votes
